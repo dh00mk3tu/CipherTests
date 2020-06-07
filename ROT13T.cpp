@@ -1,3 +1,8 @@
+/* 
+* Author @dh00mk3tu | Anirudh Rath 
+* www.github.com/dh00mk3tu
+*/
+
 #include <iostream>
 
 using namespace std;
@@ -6,7 +11,10 @@ void cipherEncryption(){
     cout << "Encrption" << endl;
     string message;
     cout << "Enter the Phrase :";
-    getline(cin, message);
+    getline(cin, /* 
+* Author @dh00mk3tu | Anirudh Rath 
+* www.github.com/dh00mk3tu
+*/message);
     cin.ignore();
 
     //message to upper case
